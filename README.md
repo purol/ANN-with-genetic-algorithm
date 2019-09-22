@@ -2,13 +2,13 @@
 It is ANN(artificial neural network) with genetic algorithm. Each AI can learn how to find their forage.
 
 You can build it by Visual Studio 2015 (different version can cause some problem.)
-or you can just run opencvtest\x64\Release\opencvtest.exe
+or you can just run x64\Release\opencvtest.exe
 
 used library : opencv
 
 reference : https://home.fnal.gov/~souvik/Brain/index.html
 the program of regerence link looks so similar with mine. However, it is just derived from same graphic library.(opencv)
-The codes are absolutely different! Actually I had not learned c++.
+Actual code is totally different!
 
 ============================================================
 
