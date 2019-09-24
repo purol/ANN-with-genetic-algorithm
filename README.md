@@ -3,7 +3,6 @@ It is ANN(artificial neural network) with genetic algorithm. Each AI can learn h
 
 You can build it by Visual Studio 2015 (different version can cause some problem.)
 or you can just run x64\Release\opencvtest.exe. 
->NOTE you should include opencv_world330.dll file. I have some trouble to upload dll files.
 
 How to use
 -------------
