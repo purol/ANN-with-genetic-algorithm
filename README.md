@@ -22,12 +22,16 @@ Result Image
 -------------
 ![Alt text](/picture/gen1.gif "Generation 1")
 * generation 1  
+#
 ![Alt text](/picture/gen3.gif "Generation 3")
 * generation 3  
+#
 ![Alt text](/picture/gen5.gif "Generation 5")
 * generation 5  
+#
 ![Alt text](/picture/gen11.gif "Generation 11")
 * generation 11  
+#
 ![Alt text](/picture/close.gif "Close")
 * movement of carnivore
 
