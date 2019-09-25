@@ -13,7 +13,27 @@ How to use
 
 How does it work
 -------------
-each AI has 36 neurons as input, 3 neurons as output, 2 hidden layers, 40 hidden neurons at each hidden layers. They become died if they do not eat sufficient forage. On the other hand, if they eat forage, they divide by 2 AIs. At that time, their weighting factors become different from their mother's one. Consequently, smarter AI can subsist after a long time.
+each AI has 36 neurons as input, 3 neurons as output, 2 hidden layers, 40 hidden neurons at each hidden layers. From 0 to 11 input neurons are used to detect foods. From 12 to 23 input neurons are used to carnivores. From 24 to 35 input neurons are used to detect herbivores.
+> NOTE herbivores are blue AI and carnivores are red AI. However, I found it is hard to optimize AI of carnivores. So I blocked to create carnivores. If you want to create carnivores, you should fix the code; you need to delete comment letter on 150, 182, 203 rows and manipulate 11 row and add comment on 149 row.
+
+0 output neuron changes velocity. 1 output neuron changes angular velocity. 2 output neuron is just for beeing reserved. They become died if they do not eat sufficient forage. On the other hand, if they eat forage, they divide by 2 AIs. At that time, their weighting factors become different from their mother's one. Consequently, smarter AI can subsist after a long time.
+
+Result Image
+-------------
+![Alt text](/picture/gen1.gif "Generation 1")
+* generation 1
+#
+![Alt text](/picture/gen3.gif "Generation 3")
+* generation 3
+#
+![Alt text](/picture/gen5.gif "Generation 5")
+* generation 5
+#
+![Alt text](/picture/gen11.gif "Generation 11")
+* generation 11
+#
+![Alt text](/picture/close.gif "Close")
+* movement of carnivore
 
 Used library
 -------------
@@ -22,5 +42,5 @@ opencv
 Reference
 -------------
 https://home.fnal.gov/~souvik/Brain/index.html
-the program of regerence link looks so similar with mine. However, it is just derived from same graphic library.(opencv)
+the program of regerence link looks so similar with mine. However, it is just derived from same graphic library(opencv).
 Actual code is totally different!
