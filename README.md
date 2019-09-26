@@ -33,7 +33,7 @@ Result Image
 * generation 11  
 #
 ![Alt text](/picture/close.gif "Close")
-* movement of carnivore
+* movement of herbivores
 
 Used library
 -------------
