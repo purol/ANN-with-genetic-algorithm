@@ -18,6 +18,10 @@ each AI has 36 neurons as input, 3 neurons as output, 2 hidden layers, 40 hidden
 
 0 output neuron changes velocity. 1 output neuron changes angular velocity. 2 output neuron is just for beeing reserved. They become died if they do not eat sufficient forage. On the other hand, if they eat forage, they divide by 2 AIs. At that time, their weighting factors become different from their mother's one. Consequently, smarter AI can subsist after a long time.
 
+Developement period
+-------------
+I made fundamental structure of ANN in March, 2017. Then I used the structure to make this program in October, 2017. However, I am not sure about accurate period of developement.
+
 Result Image
 -------------
 ![Alt text](/picture/gen1.gif "Generation 1")
