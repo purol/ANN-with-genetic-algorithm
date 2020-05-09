@@ -8,7 +8,7 @@ How to use
 -------------
 > If you do not have Visual Studio, then you need do install Visual C++ Redistributable. Here is the link (https://www.microsoft.com/en-pk/download/details.aspx?id=48145)
 1. build the project or run opencvtest.exe
-> Because I upload .dll files by Git LFS. You can not download .dll files by "Download Zip" button. It will make some error having to do with opencv_world330.dll. Therefore, you need to download opencv_world330.dll file seperately or you can just download it from official website (https://opencv.org/)
+> Because I uploaded dll files by Git LFS. You can not download dll files by "Download Zip" button. It will make some error having to do with opencv_world330.dll. Therefore, you need to download opencv_world330.dll file seperately or you can just download it from official website (https://opencv.org/)
 2. If it is first time to run it, then type 1 and press enter button. If you want to load save file, type 2 and press enter button.
 3. Watch movment of AIs. If all of them are died, the program will be closed automatically and make save file.
 4. If you want to train AIs more, re-run the program and load the save file.
