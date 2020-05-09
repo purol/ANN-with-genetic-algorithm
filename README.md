@@ -26,20 +26,29 @@ I made fundamental structure of ANN in March, 2017. Then I used the structure to
 
 Result Image
 -------------
-![Alt text](/picture/gen1.gif "Generation 1")
+![Alt text](/picture/new/gen1.gif "Generation 1")
 * generation 1  
 #
-![Alt text](/picture/gen3.gif "Generation 3")
+![Alt text](/picture/new/gen3.gif "Generation 3")
 * generation 3  
 #
-![Alt text](/picture/gen5.gif "Generation 5")
+![Alt text](/picture/new/gen5.gif "Generation 5")
 * generation 5  
 #
-![Alt text](/picture/gen11.gif "Generation 11")
-* generation 11  
+![Alt text](/picture/new/gen11.gif "Generation 11")
+* generation 11
 #
-![Alt text](/picture/close.gif "Close")
-* movement of herbivores
+![Alt text](/picture/new/gen16.gif "Generation 16")
+* generation 16
+#
+![Alt text](/picture/new/gen17.gif "Generation 17")
+* generation 17 after a long time. At generation 17, they did not become extinct.
+#
+![Alt text](/picture/new/close1.gif "Close")
+* movement of herbivores 1
+#
+![Alt text](/picture/new/close2.gif "Close")
+* movement of herbivores 2
 
 Used library
 -------------
